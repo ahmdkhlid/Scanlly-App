@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "768031640667",
+    "firebase_url": "https://loginproj-1-default-rtdb.firebaseio.com",
+    "project_id": "loginproj-1",
+    "storage_bucket": "loginproj-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768031640667:android:8bd445895dc064eb7c437e",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768031640667-jn8h9noo19ke72c8hadims7rr8b6bdu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvfortvd9eWGph0zme3sLYBH5YlEAJIII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768031640667-jn8h9noo19ke72c8hadims7rr8b6bdu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
